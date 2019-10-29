@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+	<title>JavaScript</title>
+	<script>
+	document.write(" ")
+
+	</script>
+</head>
+<body>
+</body>
+</html>

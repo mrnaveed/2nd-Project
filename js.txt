@@ -1,0 +1,11 @@
+var newLine = "\n"
+var message = "Pizza"
+	message += newLine;
+	message += "Pizz";
+	message += newLine;
+	message += "Piz";
+	message += newLine;
+	message += "Pi";
+	message += newLine;
+	message += "P";
+	alert(message);
